@@ -1,4 +1,4 @@
-# Model-Deployment-
+# Model Deployment
 Model Deployment using Gradio
 - Deploy a BERT Model
 - Deploy pretrained MobileNetV2
